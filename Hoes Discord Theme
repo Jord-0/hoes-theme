@@ -1,0 +1,47 @@
+/**
+ * @name hoes
+ * @author Jord#0002
+ * @version 1
+ * @description Jord's Discord Theme
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite BDYkea7bVY
+ * @website https://62d7eab9af303.site123.me/
+ * @authorId 976269037770264632
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/Z0vlm0r.png');
+  --background-image-blur: 3px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-modal-image: var(--background-image);
+  --popout-modal-blur: 5px;
+  --popout-modal-size: cover;
+  --popout-modal-position: center;
+  --home-button-image: url('https://i.imgur.com/DyGRmtJ.png');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.8;
+  --left-brightness: 0.8;
+  --middle-brightness: 0.6;
+  --right-brightness: 0;
+  --popout-modal-brightness: 0.75;
+  --gradient-primary: 189,38,38;
+  --gradient-secondary: 155,29,29;
+  --link-colour: #9B1D1D;
+  --scrollbar-colour: rgb(155,29,29,1);
+  --gradient-direction: 320deg;
+  --tint-colour: 82,44,149;
+  --tint-brightness: 0.1;
+  --font: Whitney;
+  --window-padding: 0px;
+  --window-roundness: 10px;
+  --update-notice-1: none;
+}
+
+/* Any custom CSS below here */
+
+
